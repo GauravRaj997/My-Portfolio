@@ -15,7 +15,7 @@ function App() {
       <Projects />
       <Contact />
       <footer className="footer">
-        <p>© 2025 Your Name. Built with React.js & CSS</p>
+        <p>© 2025 Gaurav Raj. Built with React.js & CSS</p>
       </footer>
     </div>
   );
