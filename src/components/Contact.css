@@ -1,0 +1,59 @@
+.contact-section {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 4rem 2rem;
+}
+
+.contact-container {
+  max-width: 700px;
+  width: 100%;
+  text-align: center;
+}
+
+.contact-content {
+  background-color: #1e293b;
+  border-radius: 12px;
+  padding: 3rem;
+  border: 1px solid #334155;
+}
+
+.contact-text {
+  font-size: 1.1rem;
+  color: #cbd5e1;
+  margin-bottom: 2rem;
+  line-height: 1.8;
+}
+
+.email-button {
+  display: inline-block;
+  padding: 1rem 2.5rem;
+  background-color: #3b82f6;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  transition: background-color 0.3s;
+  margin-bottom: 2rem;
+}
+
+.email-button:hover {
+  background-color: #2563eb;
+}
+
+.contact-social {
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+}
+
+.contact-social a {
+  color: #94a3b8;
+  transition: color 0.3s;
+}
+
+.contact-social a:hover {
+  color: #60a5fa;
+}
