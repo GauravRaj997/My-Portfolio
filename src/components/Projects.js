@@ -6,21 +6,21 @@ function Projects() {
   const projects = [
     {
       title: 'Personal Portfolio',
-      description: 'A responsive portfolio website built with React.js to showcase my projects and skills.',
+      description: 'A simple, modern personal portfolio built with React.js and Node.js. Designed for students and beginners to showcase projects, skills, and contact info using a clean UI and Lucide icons.',
       tech: ['React', 'CSS'],
-      github: '#'
+      github: 'https://github.com/GauravRaj997/My-Portfolio.git'
     },
     {
-      title: 'Todo App',
-      description: 'A simple task management application with add, delete, and mark complete features.',
+      title: 'Simple Express site',
+      description: 'A basic 2-3 page website built using Node.js and Express.js only — without any frontend framework or database. This project demonstrates how to create multiple static pages (Home, About, Contact) and serve them using Express.',
       tech: ['JavaScript', 'HTML', 'CSS'],
-      github: '#'
+      github: 'https://github.com/GauravRaj997/Simple-Express-Site.git'
     },
     {
-      title: 'Weather App',
-      description: 'A weather application that shows current weather using a public weather API.',
+      title: 'Login-Sign up',
+      description: 'A modern and responsive Login & Signup Page built using React.js with smooth navigation using React Router DOM. Features an elegant UI with gradient backgrounds, dynamic form switching between login and signup, and a welcoming landing page.',
       tech: ['JavaScript', 'API', 'CSS'],
-      github: '#'
+      github: 'https://github.com/GauravRaj997/Login-Sign-Up.git'
     }
   ];
 
